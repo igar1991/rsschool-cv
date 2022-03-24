@@ -49,3 +49,7 @@ const getTemplateArr = createAsyncThunk('main/getTemplateArr',
 ## Education
 * Belarusian-Russian University, Faculty of Civil Engineering.
 
+## Languages
+* __Russian__ - native speaker.
+* __English__ - Pre-Intermediate.
+
