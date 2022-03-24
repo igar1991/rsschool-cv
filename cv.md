@@ -40,3 +40,12 @@ const getTemplateArr = createAsyncThunk('main/getTemplateArr',
     }
 )
 ```
+
+## Experience
+* Developed several mobile applications: [Sounds for sleep](https://play.google.com/store/apps/details?id=com.igorcompany.Sleep_Sound), [Flag quiz](https://play.google.com/store/apps/details?id=com.igar1991.quiz_flags), [InstaQuote](https://play.google.com/store/apps/details?id=com.igorcompany.Quote_Insta).
+* Developed several SPA: [Memezzz](https://memezzz.xyz/).
+* Work in small blockchain Startup.
+
+## Education
+* Belarusian-Russian University, Faculty of Civil Engineering.
+
