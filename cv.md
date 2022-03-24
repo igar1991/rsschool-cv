@@ -42,8 +42,8 @@ const getTemplateArr = createAsyncThunk('main/getTemplateArr',
 ```
 
 ## Experience
-* Developed several mobile applications: [Sounds for sleep](https://play.google.com/store/apps/details?id=com.igorcompany.Sleep_Sound), [Flag quiz](https://github.com/igar1991/quiz_flags), [InstaQuote](https://github.com/igar1991/InstaQuote).
-* Developed several SPA: [Memezzz](https://github.com/igar1991/memezzz-nft).
+* Developed several mobile applications using React Native / Expo / Navigation: [Sounds for sleep](https://play.google.com/store/apps/details?id=com.igorcompany.Sleep_Sound), [Flag quiz](https://github.com/igar1991/quiz_flags), [InstaQuote](https://github.com/igar1991/InstaQuote).
+* Developed several SPA using React.js / Redux: [Memezzz](https://github.com/igar1991/memezzz-nft).
 * Work in small blockchain Startup.
 
 ## Education
