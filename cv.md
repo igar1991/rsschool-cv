@@ -7,7 +7,7 @@
 * __GitHub:__ [igar1991](https://github.com/igar1991)
 
 ## About Me
-I work for a small startup. Interested in blockchain technology. Participated in hackathons and grant programs. I like to play chess and mafia.
+I work for a small startup. Interested in blockchain technology. Participated in hackathons and grant programs. The main quality is perseverance. The main goal is to become a good full stack programmer.
 
 ## Skills
 * HTML
@@ -42,8 +42,8 @@ const getTemplateArr = createAsyncThunk('main/getTemplateArr',
 ```
 
 ## Experience
-* Developed several mobile applications: [Sounds for sleep](https://play.google.com/store/apps/details?id=com.igorcompany.Sleep_Sound), [Flag quiz](https://play.google.com/store/apps/details?id=com.igar1991.quiz_flags), [InstaQuote](https://play.google.com/store/apps/details?id=com.igorcompany.Quote_Insta).
-* Developed several SPA: [Memezzz](https://memezzz.xyz/).
+* Developed several mobile applications: [Sounds for sleep](https://play.google.com/store/apps/details?id=com.igorcompany.Sleep_Sound), [Flag quiz](https://github.com/igar1991/quiz_flags), [InstaQuote](https://github.com/igar1991/InstaQuote).
+* Developed several SPA: [Memezzz](https://github.com/igar1991/memezzz-nft).
 * Work in small blockchain Startup.
 
 ## Education
